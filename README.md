@@ -45,6 +45,14 @@ Currently exploring **3D modeling with Three.js** and working on **custom e-comm
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-antony&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeff-antony&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeff-antony&theme=tokyonight" alt="Activity Graph"/>
+</p>
+
 ---
 
 ## 🌐 Connect with Me  
@@ -52,6 +60,14 @@ Currently exploring **3D modeling with Three.js** and working on **custom e-comm
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@example.com)  
+
+---
+
+## 👀 Profile Visitors  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jeff-antony&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 

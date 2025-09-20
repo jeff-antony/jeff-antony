@@ -37,13 +37,14 @@ Currently exploring **3D modeling with Three.js** and working on **custom e-comm
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeff-antony&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeff-antony&theme=tokyonight" alt="GitHub Streak" />
-</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-antony&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeff-antony&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeff-antony&theme=tokyonight" alt="Activity Graph"/>
 </p>

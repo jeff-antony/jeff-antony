@@ -1,74 +1,149 @@
-# 👋 Hey, I'm Antony Jefin  
+<div align="center">🌌 ANTONY JEFIN 🌌</div>
+<div align="center">
+Show Image
+</div>
 
-🚀 Junior Software Developer | MERN & Next.js Enthusiast | Problem Solver  
+<div align="center">
+🚀 CRAFTING DIGITAL EXPERIENCES 🚀
+┌─────────────────────────────────────────────────┐
+│  🌟 Building Interactive Applications          │
+│  🎯 Exploring 3D Modeling with Three.js        │
+│  🛒 Custom E-commerce Systems Specialist       │
+│  💡 Always Learning, Always Growing            │
+└─────────────────────────────────────────────────┘
+</div>
 
-I love building interactive, user-friendly, and feature-rich applications.  
-Currently exploring **3D modeling with Three.js** and working on **custom e-commerce systems**.  
+🛠️ TECHNOLOGY ARSENAL
+<div align="center">
+Frontend Mastery
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,materialui,tailwind&theme=dark" alt="Frontend Skills" />
+</p>
+Backend Power
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase&theme=dark" alt="Backend Skills" />
+</p>
+Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&theme=dark" alt="Tools" />
+</p>
+</div>
+
+📊 PERFORMANCE METRICS
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeff-antony&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeff-antony&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF" alt="GitHub Streak" />
+</div>
+<div align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-antony&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Most Used Languages" />
+</div>
+<div align="center">
+Show Image
+</div>
+
+🌟 FEATURED PROJECTS
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🛒 E-Commerce Platform</h3>
+<div align="center">  
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jeff-antony&repo=ecommerce-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="E-Commerce Platform" />
+</a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🎮 3D Portfolio</h3>
+<div align="center">
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jeff-antony&repo=3d-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="3D Portfolio" />
+</a>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+🎯 CURRENT FOCUS
+<div align="center">
+```yaml
+Learning:
+  - Three.js Advanced Techniques
+  - GraphQL & Apollo Client
+  - Microservices Architecture
+  - Cloud Computing (AWS/Azure)
+Building:
+
+Next.js 14 Applications
+Real-time Chat Systems
+AI-Powered Tools
+Progressive Web Apps
+
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🌐 **CONNECT WITH ME**
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="MUI" width="40" height="40"/>
+<div align="center">
 
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/YOURUSERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:yourmail@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/yourusername)
 
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 **ACHIEVEMENTS & CERTIFICATIONS**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeff-antony&show_icons=true&theme=tokyonight" alt="Antony's GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-antony&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=jeff-antony&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeff-antony&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeff-antony&theme=tokyonight" alt="Activity Graph"/>
-</p>
+</div>
 
 ---
 
-## 🌐 Connect with Me  
+## 📈 **CONTRIBUTION GRAPH**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@example.com)  
+<div align="center">
 
----
+![Snake animation](https://github.com/jeff-antony/jeff-antony/blob/output/github-contribution-grid-snake-dark.svg)
 
-## 👀 Profile Visitors  
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jeff-antony&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
+## 💭 **PHILOSOPHY**
+
+<div align="center">
+
+> ### *"The future belongs to those who learn more skills and combine them in creative ways."* 
+> 
+> **— Robert Greene**
+
+</div>
+
+<div align="center">
+
+### 🌟 **Building Tomorrow, One Line of Code at a Time** 🌟
+
+![Profile Views](https://komarev.com/ghpvc/?username=jeff-antony&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/jeff-antony?color=00F5FF&style=for-the-badge&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/jeff-antony?color=00F5FF&style=for-the-badge&label=STARS)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⚡ **"Innovation distinguishes between a leader and a follower."** ⚡
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling)
+
+</div>
